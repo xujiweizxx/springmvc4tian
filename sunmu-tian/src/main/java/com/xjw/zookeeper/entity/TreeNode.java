@@ -5,7 +5,6 @@ import org.apache.commons.lang.builder.ToStringStyle;
 
 /**
  * ztree节点类
-	 * 项目名称：com.bj58.wf.shredder  
 	 * 实现功能：  
 	 * 类名称：TreeNode   
 	 * 版权所有：
